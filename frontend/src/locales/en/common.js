@@ -195,7 +195,7 @@ const TRANSLATIONS = {
       },
     },
     quickLinks: {
-      title: "Quick Links",
+      title: "Hemen Başlayın",
       sendChat: "Send Chat",
       embedDocument: "Embed a Document",
       createWorkspace: "Create Workspace",
